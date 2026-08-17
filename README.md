@@ -45,13 +45,13 @@ java Main
 ## 📸 Screenshots
 
 ### Step 1 — Personal Details
-![Personal Details Form](Assets/personal_details.png)
+![Personal Details Form](https://raw.githubusercontent.com/parmeshgoyal/CAR-RENTAL/main/Assets/personal_details.png)
 
 ### Step 2 — Car Selection
-![Car Selection Panel](Assets/car_selection.png)
+![Car Selection Panel](https://raw.githubusercontent.com/parmeshgoyal/CAR-RENTAL/main/Assets/car_selection.png)
 
 ### Step 3 — Rental Slip
-![Rental Slip Dialog](Assets/rental_slip.png)
+![Rental Slip Dialog](https://raw.githubusercontent.com/parmeshgoyal/CAR-RENTAL/main/Assets/rental_slip.png)
 
 ---
 
